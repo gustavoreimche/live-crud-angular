@@ -1,0 +1,19 @@
+.sidenav {
+	background-color: #3f51b5;
+	width: 200px;
+}
+
+.sidenav i {
+	padding-right: 10px;
+}
+
+.mat-mdc-list-base {
+	--mdc-list-list-item-label-text-color: #fff;
+	--mdc-list-list-item-hover-label-text-color: #fff;
+	--mdc-list-list-item-focus-label-text-color: #fff;
+}
+
+.content {
+	padding: 16px;
+	background-color: #fff;
+}
