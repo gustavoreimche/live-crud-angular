@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": "5000.899"
+    },
+    {
+      "name": "Computador",
+      "price": "2000.982",
+      "id": 4
+    },
+    {
+      "name": "Veio do form",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "name": "Lápis preto",
+      "price": "3",
+      "id": 7
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 8
+    }
+  ]
+}
