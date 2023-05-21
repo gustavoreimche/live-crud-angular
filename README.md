@@ -1,3 +1,9 @@
+# Backend
+
+Para rodar o backend navegue pelo terminal até a pasta backend do repostitório e rode `npm install` e logo em seguida o comando `npm start`
+
+Logo após navegue até a pasta principal do projeto "frontend" e rode `npm install` e logo em seguida o comando `npm start`
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
